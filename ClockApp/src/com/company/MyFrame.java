@@ -6,8 +6,14 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 
-public class MyFrame extends JFrame {
+/*
+*
+* https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+*
+* */
 
+
+public class MyFrame extends JFrame {
 
     //Calendar calendar;
     SimpleDateFormat timeFormat;
